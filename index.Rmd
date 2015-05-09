@@ -87,6 +87,7 @@ github:
          <li>numpy / scipy</li>
        </ul>
      </li>
+     <li>MongoDB</li>
      <li>Unix/Linux</li>
      <li>Julia</li>
    </ul>
